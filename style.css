@@ -19,6 +19,7 @@ body{
     background-color: white;
     position: absolute;
     margin: 8rem 33.5rem;
+    overflow: hidden;
 }
 
 span{
@@ -66,8 +67,9 @@ p{
     color: #5c5c5c;
 }
 
-/* .bicycle img{
-    width: 10%;
-    height: 10%;
+#bicycle img{
+    width: 100%;
+    height: 78%;
     position: absolute;
-} */
+    margin-top: -11rem;
+}

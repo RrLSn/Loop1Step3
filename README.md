@@ -12,7 +12,7 @@ Your browser version must be recent for a better experience https://github.com/R
 HTML
 CSS
 
-#Demo
+# Demo
 [preview](https://rawcdn.githack.com/RrLSn/Loop1Step3/9de1a8dfbc9d6f312a0a2f119d6e545253630681/index.html)
 ![screenshot](./media/Screenshot%202022-10-30%20131509.png)
 

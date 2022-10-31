@@ -14,12 +14,12 @@ body{
 
 #wrapper{
     width: 42%;
-    height: 63.5%;
+    height: 60vh;
     border-radius: 1%;
     background-color: white;
-    position: absolute;
     margin: 8rem 33.5rem;
     overflow: hidden;
+    position: relative;
 }
 
 span{
